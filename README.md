@@ -1,5 +1,5 @@
 # test-repo
-blah
+Blah was not helpful
 
 ## To do
 1. Make a better readme
